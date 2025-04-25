@@ -45,3 +45,7 @@ Visual indicators showing who is currently active in each document
 
 This collaborative document editor provides a solid foundation that can be extended with additional features like commenting, version history, access controls, and more advanced formatting options to create a full-featured collaborative workspace.
 
+https://github.com/user-attachments/assets/287e03ff-4983-4dc7-81a3-b420740a2ee6
+https://github.com/user-attachments/assets/8fb273f5-552b-4a38-a3f2-a1cbe5cad6bf
+https://github.com/user-attachments/assets/570d557c-811b-417a-a6ec-9890af524560
+https://github.com/user-attachments/assets/4a069e6e-0742-4df1-87c8-61fab8034e63
